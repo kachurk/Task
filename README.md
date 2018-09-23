@@ -1,6 +1,6 @@
 # Task (transfer money between accounts)
 
-It's simple RESTful application which is implemeted using Java 8 and also H2, Blade and Ebean frameworks, enjoy :)
+It's simple RESTful application which is implemeted using Java 8 and also h2, Blade and Ebean frameworks, enjoy :)
 
 ## Getting Started
 
@@ -19,7 +19,7 @@ And Deployment
 ```
 java -jar target/task.jar // server should be started
 ```
-The aerver should be started on http://127.0.0.1:9000 and initial data should be loaded for accounts with id 1 and 2.
+The server should be started on http://127.0.0.1:9000 and initial data should be loaded for accounts with id 1 and 2.
 
 ### API Resources
   - [GET /account/:id](#/account/:id)
