@@ -1,0 +1,3 @@
+entity-packages: com.kkachur.task.model
+transactional-packages: com.kkachur.task
+querybean-packages: com.kkachur.task
